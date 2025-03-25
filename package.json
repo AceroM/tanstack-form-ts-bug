@@ -1,0 +1,14 @@
+{
+  "name": "tanstack-form-ts-bug",
+  "workspaces": [
+    "packages/*"
+  ],
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "5.3.3",
+    "typescript-eslint": "^8.0.1"
+  }
+}
